@@ -1,6 +1,7 @@
 # ✨ Thông tin cá nhân  
+📌 **Họ Tên:** Đoàn Trúc Như
 📌 **Mã SV:** DTH235718  
-👨‍🎓 **Lớp:** Công nghệ thông tin  
+👨‍🎓 **Lớp:** DH24TH2
 📘 **Môn học:** Python  
 
 ---
