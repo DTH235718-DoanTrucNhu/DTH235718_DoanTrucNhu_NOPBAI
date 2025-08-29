@@ -1,0 +1,1 @@
+print(' Mình Về Mình có nhớ ta?\n Mười lăm năm ấy thiết tha mặn nồng\n Mình về mình có nhớ không?\n Nhìn cây nhớ núi nhìn sông nhớ nguồn')
