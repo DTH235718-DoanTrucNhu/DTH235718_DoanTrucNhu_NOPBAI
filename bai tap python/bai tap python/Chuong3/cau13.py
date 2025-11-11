@@ -1,1 +1,0 @@
-#vô hạn dấu * được in ra do không có điều kiện dừng
