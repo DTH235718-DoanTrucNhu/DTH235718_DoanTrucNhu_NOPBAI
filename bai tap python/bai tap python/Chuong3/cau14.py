@@ -1,0 +1,1 @@
+#có 2000 dấu sao được in ra màn hình
